@@ -1,0 +1,23 @@
+{
+  "name": "@nidhish_10/githubapi-sdk",
+  "version": "1.0.0",
+  "description": "A simple SDK for interacting with the GitHub API.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["github", "sdk", "api", "nodejs"],
+  "author": "Nidhish",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nidhish-srivastava/GitHubAPI-SDK"
+  },
+  "bugs": {
+    "url": "https://github.com/nidhish-srivastava/GitHubAPI-SDK/issues"
+  },
+  "homepage": "https://github.com/nidhish-srivastava/GitHubAPI-SDK#readme"
+}
