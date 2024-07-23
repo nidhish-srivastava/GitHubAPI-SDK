@@ -11,9 +11,9 @@ npm install @nidhish_10/github-sdk
 
 Import the modules from the sdk
 ```
-import GitHubClient from 'githubapi-sdk/src/client';
-import Issues from 'githubapi-sdk/src/issues';
-import Repositories from 'githubapi-sdk/src/repositories';
+import GitHubClient from '@nidhish_10/githubapi-sdk/src/client';
+import Issues from '@nidhish_10/githubapi-sdk/src/issues';
+import Repositories from '@nidhish_10/githubapi-sdk/src/repositories';
 ```
 Create your auth token from developer settings of your github account
 ``` 
