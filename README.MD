@@ -28,7 +28,8 @@ const repos = new Repositories(client);
 ```
 
 Now use methods of these instances
-Available methods right now
+
+Available methods right now : 
 ```
 client.getUser()
 
