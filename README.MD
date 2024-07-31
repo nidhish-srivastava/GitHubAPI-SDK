@@ -1,6 +1,6 @@
 # GitHubAPI-SDK
 
-A simple GitHub SDK for interacting with the GitHub API.
+A simple SDK for interacting with the GitHub API.
 
 ## Installation
 
